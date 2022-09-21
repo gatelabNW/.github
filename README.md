@@ -1,26 +1,3 @@
-           o  o  o                 o  o  o     o  o  o
-        o  |  |  |  o           o  |  |  |  o  |  |  |  o
-     o--o  o  |  |  |  o     o  |  |  |  o     o  |  |  |  o
-   o------o   o  |  |  |  o  |  |  |  o           o  |  |  |  o
- o--------o      o  o  o     o  o  o                 o  o  o o--o
-o--------o           _---~~(~~-_.            __             o-----o
-o-------o          _{        )   )           ||            o--------o
- o----o          ,   ) -~~- ( ,-' )_        ====           o---------o
-    o           (  `-,_..`., )-- '_,)       |  |__          o--------o
-  o--o         ( ` _)  (  -~( -_ `,  }      |  |-.\           o-----o
- o-----o       (_-  _  ~_-~~~~`,  ,' )      |__|  \\              o
-o--------o       `~ -^(    __;-,((()))       ||   ||            o--o
-o---------o            ~~~~ {_ -_(())      ======__|          o------o
- o--------o                   `\  }       ________||__      o--------o
-   o-----o                      { }      /____________\    o--------o
-       o         ______      __          __          __    o-------o
-     o--o       / ____/___ _/ /____     / /   ____ _/ /_    o----o
-   o------o    / / __/ __ `/ __/ _ \   / /   / __ `/ __ \      o
- o--------o   / /_/ / /_/ / /_/  __/  / /___/ /_/ / /_/ /    o---o
-o--------o    \____/\__,_/\__/\___/  /_____/\__,_/_.___/    o------o
-o-------o                                                  o--------o
- o----o o  o  o                 o  o  o     o  o  o        o--------o
-     o  |  |  |  o           o  |  |  |  o  |  |  |  o     o------o
-        o  |  |  |  o     o  |  |  |  o     o  |  |  |  o   o--o
-           o  |  |  |  o  |  |  |  o           o  |  |  |  o
-              o  o  o     o  o  o                 o  o  o
+gatelabNW/.github is a special repository.  This repo is for configuring the gatelabNW github space.
+
+For example, the /profile/README.md will appear on the organization's profile. 
