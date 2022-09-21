@@ -1,4 +1,4 @@
-[```
+```
            o  o  o                 o  o  o     o  o  o
         o  |  |  |  o           o  |  |  |  o  |  |  |  o
      o--o  o  |  |  |  o     o  |  |  |  o     o  |  |  |  o
@@ -26,8 +26,8 @@ o-------o                                                  o--------o
            o  |  |  |  o  |  |  |  o           o  |  |  |  o
               o  o  o     o  o  o                 o  o  o
 
-```]
-(https://sites.northwestern.edu/gatelab/)
+```
+
 # Links:
 - [Lab Hub](https://sites.google.com/view/gatelab)
 - [Computation Hub](https://sites.google.com/view/data-analysis-resource-center/home)
