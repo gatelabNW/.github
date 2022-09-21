@@ -27,3 +27,7 @@ o-------o                                                  o--------o
               o  o  o     o  o  o                 o  o  o
 
 ```
+# Links:
+- [Lab Hub](https://sites.google.com/view/gatelab)
+- [Computation Hub](https://sites.google.com/view/data-analysis-resource-center/home)
+- [Lab Website](https://sites.northwestern.edu/gatelab/)
